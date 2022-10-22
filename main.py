@@ -90,4 +90,9 @@ def main():
 
 
 if __name__ == "__main__":
+    '''
+    pip install -r requirement.txt
+    kaggle competitions download -c amex-default-prediction
+    cd code
+    '''
     main()
